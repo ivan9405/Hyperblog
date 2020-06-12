@@ -2,4 +2,6 @@ Mi nombre es Ivan Naranjo
 
 Tengo 25 años y estoy aprendiendo a programar.
 
+Vivo en Bogotá, Colombia
+
 Esta es mi historia.
